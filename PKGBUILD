@@ -1,6 +1,6 @@
 # Maintainer: theglitchh <souravgope765@gmail.com>
 pkgname=intellij-idea-ce
-_pkgver=211.7628.21
+_pkgver=212.5457.46
 pkgver=2021.2.3
 pkgrel=1
 pkgdesc="Intellij Idea IDE community version with Intellij JDK"
