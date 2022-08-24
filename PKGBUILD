@@ -1,7 +1,7 @@
 # Maintainer: theglitchh <souravgope765@gmail.com>
 pkgname=intellij-idea-ce
-_pkgver=212.5457.46
-pkgver=2021.2.3
+_pkgver=222.3739.54
+pkgver=2022.2.1
 pkgrel=1
 pkgdesc="Intellij Idea IDE community version with Intellij JDK"
 arch=('any')
@@ -11,7 +11,7 @@ license=('Apache2')
 depends=('giflib-tools' 'libxtst6')
 source=("https://download.jetbrains.com/idea/ideaIC-${pkgver}.tar.gz"
         "intellij-idea-ce.desktop")
-sha256sums=('582eb0b6dc9cb3c181d179638ccae54a89cfe73bd59fac6806c4fee8b586d998'
+sha256sums=('93eb9391a898aad164ca47965e0445cbf0f04d7062b6875c4e4a3136799ee6cf'
             'b38188c0533db6861cf5193deebd58731ad93647ae3c03b3fae6f7748b4ff849')
 
 package() {
